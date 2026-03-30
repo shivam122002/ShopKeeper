@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShopKeeper.Application/ShopKeeper.Application.csproj" />
+  <Project Path="ShopKeeper.Domain/ShopKeeper.Domain.csproj" />
+  <Project Path="ShopKeeper.Infrastructure/ShopKeeper.Infrastructure.csproj" />
+  <Project Path="ShopKeeper.UI/ShopKeeper.UI.csproj" />
+</Solution>

@@ -1,0 +1,30 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## EF Core
+Migrations/
+
+## Publish
+publish/
+
+## SQLite (if later used)
+*.db
+
+## Secrets
+appsettings.Development.json
